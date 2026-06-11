@@ -1,6 +1,6 @@
 
 <h1>DOCUMENTAÇÃO DE IMPLANTAÇÃO – PORTFOLIOHUB</h1>
-<p><strong>Estudante:</strong> [Nathan de Andrade Silva]</p>
+<p><strong>Estudante:</strong> Nathan de Andrade Silva</p>
 <p><strong>Curso:</strong> Engenharia de Software – Bootcamp I</p>
 <p><strong>Data de Entrega:</strong> 14/06/2026</p>
 
@@ -56,6 +56,3 @@
   <li><code>feature/*</code>: Branches temporárias criadas para o desenvolvimento de novos componentes visuais ou lógicos.</li>
 </ol>
 
-<h2>5. Link do Repositório e Apresentação</h2>
-<p><strong>Repositório no GitHub:</strong> <a href="https://github.com/nathan-andradee/implantacao" target="_blank">github.com/[nathan-andradee]/implantacao</a></p>
-<p><strong>Vídeo de Apresentação (YouTube):</strong> <a href="https://youtube.com/watch?v=[seu-video]" target="_blank">Apresentação do Projeto PortfolioHUB</a></p>
